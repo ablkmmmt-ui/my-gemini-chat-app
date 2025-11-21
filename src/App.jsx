@@ -1,1 +1,1 @@
-const apiKey = "在这里填入您的API Key";
+constconst apiKey = import.meta.env.VITE_GEMINI_API_KEY; 
